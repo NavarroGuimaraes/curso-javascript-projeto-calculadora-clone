@@ -9,4 +9,8 @@ This calculator was developed as an example of the HCode's Javascript course on 
 # How to use it
 
 To view and use the calculator, you should just clone this repository and open the index.html file. To get it done, you need a browser installed on your computer.  
-The suggested browser is Chrome. To download it (in case you don't have it) [click here](https://www.google.com/intl/pt-BR/chrome/)
+The suggested browser is Chrome. 
+
+[![Chrome](https://img.utdstc.com/icons/google-chrome-.png:l)](https://www.google.com/intl/pt-BR/chrome/)
+
+To download it (in case you don't have it) [click here](https://www.google.com/intl/pt-BR/chrome/) or click in the image above
